@@ -65,4 +65,4 @@ I would like to focus on learning more about CSS in the future.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@liquidwater0](https://www.frontendmentor.io/profile/liquidwater0)
