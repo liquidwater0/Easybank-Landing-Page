@@ -44,10 +44,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 100%;
 }
 
-.flex-column {
-    flex-direction: column;
-}
-
 .grid {
     display: grid;
 }
@@ -370,6 +366,13 @@ section:not(:first-of-type) .grid > div p {
 @media (max-width: 975px) {
     .grid-4 {
         gap: 25px;
+    }
+
+    .flex-column {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
     }
 
     .header {
